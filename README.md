@@ -1,2 +1,2 @@
 # NFT Collection for University of Toledo
- Senior Design Project to create an NFT collection Engineering Department
+ Senior Design Project to create an NFT collection for Engineering Department
